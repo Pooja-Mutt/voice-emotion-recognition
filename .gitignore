@@ -1,0 +1,8 @@
+# Ignore virtual environments and large binaries
+.venv/
+emoenv/
+__pycache__/
+*.h5
+*.pkl
+*.wav
+.idea/

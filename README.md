@@ -40,3 +40,21 @@ This project uses a custom-trained CNN model to detect **emotions from voice rec
    ```bash
    git clone https://github.com/Pooja-Mutt/voice-emotion-recognition.git
    cd voice-emotion-recognition
+
+---
+
+## 👩‍💻 Author
+
+**Pooja Mutt**  
+Aspiring AI/ML Engineer | Full Stack Python Developer  
+📍 Indiana, USA  
+🔗 [GitHub Profile](https://github.com/Pooja-Mutt)
+
+---
+
+## 🌟 Give a Star
+
+If you found this project useful or interesting, please consider giving it a ⭐ on GitHub!  
+It motivates me to build and share more awesome projects.
+
+[👉 Click here to ⭐ the repo](https://github.com/Pooja-Mutt/voice-emotion-recognition/stargazers)
